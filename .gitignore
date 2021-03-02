@@ -1,1 +1,9 @@
 node_modules
+.webpack
+.idea
+.DS_Store
+/dist/
+.env
+.env*
+
+**/*/.DS_Store
